@@ -1,1 +1,1 @@
-# MyStudies
+* Blog
